@@ -210,7 +210,7 @@ export class Handle extends Graphics {
                 break;
         }
     }
-
+ 
     private getDistance(src: Point, dest: Point) {
         return Math.sqrt(Math.pow(dest.x - src.x, 2) + Math.pow(dest.y - src.y, 2));
     }
