@@ -20,9 +20,10 @@
     "react": "^18.0.0",
     "react-device-detect": "^2.2.2",
     "react-dom": "^18.0.0",
-    "react-scripts": "5.0.0",
+    "react-scripts": "^5.0.1",
     "tabler-icons-react": "^1.43.0",
     "three": "^0.140.0",
+    "typescript": "^4.9.5",
     "web-vitals": "^2.1.4",
     "zustand": "^3.7.2"
   },
@@ -52,7 +53,6 @@
   },
   "devDependencies": {
     "@babel/preset-typescript": "^7.24.7",
-    "@types/three": "^0.139.0",
-    "typescript": "^5.5.4"
+    "@types/three": "^0.139.0"
   }
 }
